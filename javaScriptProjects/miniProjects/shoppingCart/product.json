@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Kaftan",
+    "price": "400",
+    "image": "images/img (1).jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kente",
+    "price": "300",
+    "image": "images/img (2).jpg"
+  },
+  {
+    "id": 3,
+    "name": "African Style",
+    "price": "100",
+    "image": "images/img (3).jpg"
+  },
+  {
+    "id": 4,
+    "name": "Roots",
+    "price": "500",
+    "image": "images/img (4).jpg"
+  },
+  {
+    "id": 5,
+    "name": "Prints",
+    "price": "300",
+    "image": "images/img (5).jpg"
+  },
+  {
+    "id": 6,
+    "name": "GTP",
+    "price": "200",
+    "image": "images/img (6).jpg"
+  }
+]
